@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "LogisticsQOL",
+	"Description": "This mod contains some quality of life (QOL) changes for the logistical systems e.g. rotating placed splitters and mergers.",
+	"Category": "Modding",
+	"CreatedBy": "Carel Schoeman",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LogisticsQOL",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "",
+			"BasePlugin": false
+		}
+	],
+	"SemVersion": "1.0.0",
+	"RemoteVersionRange": "",
+	"AcceptsAnyRemoteVersion": false
+}
